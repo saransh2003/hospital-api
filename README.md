@@ -4,7 +4,7 @@ I have designed an API using Node.js and MongoDB for the doctors of a Hospital t
 It is built using **MongoDB, ExpressJs, NodeJS, and JavaScript.**
 
 -   Hosted Link: [Hospital API](https://hospital-api-saransh.onrender.com)
--   Documentation Link: [Hospital API Doc](https://documenter.getpostman.com/view/28551869/2s946fdsQS)
+-   Documentation Link: [Hospital API Doc](https://documenter.getpostman.com/view/28801098/2s9XxySE1V)
 
 # Functionality
 
