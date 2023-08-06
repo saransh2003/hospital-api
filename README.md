@@ -3,7 +3,7 @@
 I have designed an API using Node.js and MongoDB for the doctors of a Hospital that the govt has allocated for testing and quarantine + well-being of COVID-19 patients.
 It is built using **MongoDB, ExpressJs, NodeJS, and JavaScript.**
 
--   Hosted Link: [Hospital API]()
+-   Hosted Link: [Hospital API](https://hospital-api-saransh.onrender.com)
 -   Documentation Link: [Hospital API Doc](https://documenter.getpostman.com/view/28551869/2s946fdsQS)
 
 # Functionality
